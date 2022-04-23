@@ -1,4 +1,6 @@
-### Hi there 👋
+### Max Li
+
+I study math and computer science at Harvard.
 
 <!--
 **maxtli/maxtli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
