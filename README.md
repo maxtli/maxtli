@@ -1,4 +1,3 @@
-I study math and computer science at Harvard. Some things I enjoy are science fiction, chess, poker, Diplomacy (the board game), basketball, indoor rock climbing, DIY car repair/woodworking, gardening, macro finance, and international relations.
 
 <!--
 **maxtli/maxtli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
